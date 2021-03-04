@@ -1,0 +1,19 @@
+{
+  "name": "healthchecks-node",
+  "version": "1.0.0",
+  "description": "Healthcheck website for services",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluffyhake/healthchecks-node.git"
+  },
+  "author": "fluffyhake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluffyhake/healthchecks-node/issues"
+  },
+  "homepage": "https://github.com/fluffyhake/healthchecks-node#readme"
+}
