@@ -1,8 +1,9 @@
 console.log("Hello From Node.js....!")
 
 
-const person = require('./person')
+const Person = require('./person')
 
 
-console.log(person);
-console.log(person.name);
+const person1 = new Person('Haakon', 19);
+
+person1.greeting();
