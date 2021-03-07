@@ -4,7 +4,9 @@
   "description": "Healthcheck website for services",
   "main": "index.js",
   "scripts": {
-    "test": "node -v"
+    "test": "node -v",
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
